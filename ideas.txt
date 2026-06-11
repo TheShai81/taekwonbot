@@ -1,0 +1,6 @@
+Officer-only commands? What could these be?
+Functions for server insights
+More fun facts
+Go to our club dropbox and select a random image
+Everytime something is put in overheard, create a poll on who you think said it
+Track snipes by forwarding all images (or images with an @ mention around) from sniping channel to an officer or a snipe tracking private channel. Officers can approve these snipes via reactions or commands.
